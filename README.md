@@ -53,10 +53,10 @@ pip install beautifulsoup4 lxml
 ## 必要なライブラリを導入
 
 
-このリポジトリに`requirement.txt`が含まれているのでそちらを使って必要なライブラリを導入します。
+このリポジトリに`requirements.txt`が含まれているのでそちらを使って必要なライブラリを導入します。
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 インストールされるライブラリは下記です。
